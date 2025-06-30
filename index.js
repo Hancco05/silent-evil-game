@@ -83,20 +83,20 @@ app.get('/', (req, res) => {
       <h1>Clásicos del Survival Horror</h1>
       
       <div class="game-container">
-        <!-- Silent Hill 1 -->
+        <!-- Silent Hill 1 (PS1) -->
         <div class="game-card">
-          <img src="https://cdn.mobygames.com/covers/3552147-silent-hill-playstation-front-cover.jpg" alt="Silent Hill 1">
+          <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d7a47b8-74e1-4a05-9b8d-5d07e5a4a5d3/df0v1x2-9a3f0f0e-0c4e-4c8e-9c1c-6f8c3a9f1f9e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkN2E0N2I4LTc0ZTEtNGEwNS05YjhkLTVkMDdlNWE0YTVkM1wvZGYwdjF4Mi05YTNmMGYwZS0wYzRlLTRjOGUtOWMxYy02ZjhjM2E5ZjFmOWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4zq-9QkL5w1x6lZ7Q0Q9Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q" alt="Silent Hill 1 PS1">
           <div class="game-info">
             <div class="game-title">Silent Hill (1999, PS1)</div>
             <span class="game-genre">Survival Horror / Psicológico</span>
-            <p>Un escritor busca a su hija desaparecida en el pueblo de Silent Hill, donde criaturas grotescas y una niebla espesa esconden horrores indescriptibles. Destaca por su atmósfera opresiva y narrativa simbólica.</p>
+            <p>Un escritor busca a su hija desaparecida en el pueblo de Silent Hill, donde criaturas grotescas y una niebla espesa esconden horrores indescriptibles. Destaca por su atmósfera opresiva.</p>
             <a href="https://www.myabandonware.com/game/silent-hill-1c" class="download-btn" target="_blank">Descargar (PS1)</a>
           </div>
         </div>
 
-        <!-- Silent Hill 2 -->
+        <!-- Silent Hill 2 (PS2) -->
         <div class="game-card">
-          <img src="https://cdn.mobygames.com/covers/3552150-silent-hill-2-playstation-2-front-cover.jpg" alt="Silent Hill 2">
+          <img src="https://m.media-amazon.com/images/I/51K8R6B5QZL._AC_UF1000,1000_QL80_.jpg" alt="Silent Hill 2 PS2">
           <div class="game-info">
             <div class="game-title">Silent Hill 2 (2001, PS2)</div>
             <span class="game-genre">Survival Horror / Drama</span>
@@ -105,9 +105,9 @@ app.get('/', (req, res) => {
           </div>
         </div>
 
-        <!-- Silent Hill 3 -->
+        <!-- Silent Hill 3 (PS2) -->
         <div class="game-card">
-          <img src="https://cdn.mobygames.com/covers/3552153-silent-hill-3-playstation-2-front-cover.jpg" alt="Silent Hill 3">
+          <img src="https://m.media-amazon.com/images/I/51K8R6B5QZL._AC_UF1000,1000_QL80_.jpg" alt="Silent Hill 3 PS2">
           <div class="game-info">
             <div class="game-title">Silent Hill 3 (2003, PS2)</div>
             <span class="game-genre">Survival Horror / Terror</span>
@@ -116,9 +116,9 @@ app.get('/', (req, res) => {
           </div>
         </div>
 
-        <!-- Resident Evil 1 -->
+        <!-- Resident Evil 1 (PS1) -->
         <div class="game-card">
-          <img src="https://cdn.mobygames.com/covers/3321537-resident-evil-playstation-front-cover.jpg" alt="Resident Evil 1">
+          <img src="https://m.media-amazon.com/images/I/71K9Y8R6QZL._AC_UF1000,1000_QL80_.jpg" alt="Resident Evil 1 PS1">
           <div class="game-info">
             <div class="game-title">Resident Evil (1996, PS1)</div>
             <span class="game-genre">Survival Horror / Zombis</span>
@@ -127,9 +127,9 @@ app.get('/', (req, res) => {
           </div>
         </div>
 
-        <!-- Resident Evil 2 -->
+        <!-- Resident Evil 2 (PS1) -->
         <div class="game-card">
-          <img src="https://cdn.mobygames.com/covers/3321540-resident-evil-2-playstation-front-cover.jpg" alt="Resident Evil 2">
+          <img src="https://m.media-amazon.com/images/I/81K9Y8R6QZL._AC_UF1000,1000_QL80_.jpg" alt="Resident Evil 2 PS1">
           <div class="game-info">
             <div class="game-title">Resident Evil 2 (1998, PS1)</div>
             <span class="game-genre">Survival Horror / Acción</span>
@@ -138,9 +138,9 @@ app.get('/', (req, res) => {
           </div>
         </div>
 
-        <!-- Resident Evil 3 -->
+        <!-- Resident Evil 3 (PS1) -->
         <div class="game-card">
-          <img src="https://cdn.mobygames.com/covers/3321543-resident-evil-3-nemesis-playstation-front-cover.jpg" alt="Resident Evil 3">
+          <img src="https://m.media-amazon.com/images/I/81K9Y8R6QZL._AC_UF1000,1000_QL80_.jpg" alt="Resident Evil 3 PS1">
           <div class="game-info">
             <div class="game-title">Resident Evil 3: Nemesis (1999, PS1)</div>
             <span class="game-genre">Survival Horror / Acción</span>
