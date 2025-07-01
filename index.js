@@ -264,7 +264,7 @@ app.get('/', (req, res) => {
       <h1>Clásicos del Survival Horror</h1>
       
       <div class="intro">
-        <p>Este sitio es un <strong>tributo y respaldo histórico</strong> a los juegos clásicos de survival horror que definieron el género. Aquí encontrarás información sobre las obras maestras de <strong>Silent Hill</strong> y <strong>Resident Evil</strong>, con enlaces a versiones abandonadas disponibles legalmente para preservación cultural.</p>
+        <p>Este sitio es un <strong>tributo y respaldo histórico</strong> a los juegos clásicos de survival horror que definieron el género. Aquí encontrarás información sobre las obras maestras de <strong>Silent Hill</strong> y <strong>Resident Evil</strong>, con enlaces a versiones disponibles de juegos clasicos para preservación de grandes obras maestras.</p>
       </div>
 
       <div class="genre-info">
@@ -278,7 +278,7 @@ app.get('/', (req, res) => {
             <li>Cámaras fijas y ángulos cinematográficos</li>
             <li>Gestión estricta de recursos (balas, curaciones)</li>
             <li>Narrativas psicológicas y simbolismo</li>
-            <li>Enemigos que representan traumas o miedos</li>
+            <li>Enemigos que representan traumas o miedos, etc</li>
           </ul>
           </div>
       </div>
@@ -291,9 +291,9 @@ app.get('/', (req, res) => {
             <li>Mantener viva la memoria de estos títulos icónicos</li>
             <li>Proporcionar información precisa sobre cada juego</li>
             <li>Ofrecer enlaces a versiones legalmente abandonadas</li>
-            <li>Educar a nuevas generaciones sobre los orígenes del género</li>
+            <li>Volver sobre los orígenes del género</li>
           </ul>
-          <p>Consideramos estos juegos como obras de arte interactivas que merecen ser recordadas y estudiadas.</p>
+          <p>Consideramos estos juegos como obras de arte interactivas que merecen ser recordadas.</p>
         </div>
         <div class="carousel">
           <div class="carousel-inner">
@@ -319,7 +319,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Psicológico</span>
             <p>Harry Mason busca a su hija adoptiva Cheryl en el pueblo de Silent Hill, donde la niebla oculta horrores personificados. Revolucionó el terror psicológico con su narrativa simbólica y monstruos que representan traumas.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.myabandonware.com/game/silent-hill-1c">Descargar (PS1)</button>
+              <button class="download-btn" data-url="https://www.mediafire.com/file/ahbtb7ed4pb5e4v/Silent_Hill_Portatil_PSX.rar/file">Descargar (PS1)</button>
             </div>
           </div>
         </div>
@@ -332,7 +332,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Drama</span>
             <p>James Sunder recibe una carta de su esposa fallecida Mary, llevándolo a Silent Hill. Obra maestra que explora culpa, duelo y redención, con Pyramid Head como manifestación de su auto-castigo.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.myabandonware.com/game/silent-hill-2">Descargar (PS2)</button>
+              <button class="download-btn" data-url="https://www.mediafire.com/file/7ted6bgn6f26c52/Silent_Hill_2_PC_port.rar/file">Descargar (PS2)</button>
             </div>
           </div>
         </div>
@@ -345,7 +345,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Gore</span>
             <p>Heather Mason descubre su conexión con el culto de Silent Hill. Juego más visceral de la saga, con diseños de monstruos basados en abortos y violencia corporal, y una banda sonora industrial icónica.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.myabandonware.com/game/silent-hill-3">Descargar (PS2)</button>
+              <button class="download-btn" data-url="https://www.mediafire.com/file/0nszsej91lt2twy/Silent_hill_3_PC_port.rar/file">Descargar (PS2)</button>
             </div>
           </div>
         </div>
@@ -358,7 +358,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Zombis</span>
             <p>Los miembros de S.T.A.R.S. investigan una mansión en las afueras de Raccoon City, encontrando zombis y experimentos genéticos. Estableció el "tank controls" y la gestión de inventario que definieron el género.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.myabandonware.com/game/resident-evil-1">Descargar (PS1)</button>
+              <button class="download-btn" data-url="https://www.mediafire.com/file/oj6x6tnn1ia9kla/RE1PCPort.rar/file">Descargar (PS1)</button>
             </div>
           </div>
         </div>
@@ -371,7 +371,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Acción</span>
             <p>Leon Kennedy y Claire Redfield escapan de Raccoon City durante un brote zombie. Introdujo a Mr. X, el Tyrant perseguidor, y una narrativa de dos campañas entrelazadas con puzzles memorables.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.myabandonware.com/game/resident-evil-2">Descargar (PS1)</button>
+              <button class="download-btn" data-url="https://www.mediafire.com/file/zz02p0ntrlnukc0/RE2PCPort%2528SN%2529.rar/file">Descargar (PS1)</button>
             </div>
           </div>
         </div>
@@ -384,7 +384,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Acción</span>
             <p>Jill Valentine intenta escapar de Raccoon City mientras es perseguida por Nemesis, un bio-arma o BOW inteligente. Introdujo el sistema de esquiva y decisiones rápidas que aumentaban la tensión.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.myabandonware.com/game/resident-evil-3">Descargar (PS1)</button>
+              <button class="download-btn" data-url="https://www.mediafire.com/file/z2vgdfaaf43mmn9/RE3PCPort.rar/file">Descargar (PS1)</button>
             </div>
           </div>
         </div>
