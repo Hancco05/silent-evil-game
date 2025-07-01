@@ -280,8 +280,7 @@ app.get('/', (req, res) => {
             <li>Narrativas psicológicas y simbolismo</li>
             <li>Enemigos que representan traumas o miedos</li>
           </ul>
-          <p>Pyramid Head, mostrado en el GIF, es el perfecto ejemplo de un enemigo que personifica los traumas del protagonista en Silent Hill 2.</p>
-        </div>
+          </div>
       </div>
 
       <div class="purpose-section">
