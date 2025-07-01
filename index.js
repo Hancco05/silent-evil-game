@@ -10,6 +10,7 @@ app.get('/', (req, res) => {
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Clásicos del Survival Horror</title>
+      <link rel="icon" href="https://www.evilresource.com/images/data/full/re4remake/first-aid-spray.png" type="image/x-icon">
       <style>
         body {
           font-family: 'Courier New', monospace;
@@ -365,7 +366,7 @@ app.get('/', (req, res) => {
 
         <!-- Resident Evil 2 -->
         <div class="game-card">
-          <img src="" alt="Resident Evil 2 PS1">
+          <img src="https://upload.wikimedia.org/wikipedia/en/4/40/NTSC_Resident_Evil_2_Cover.png" alt="Resident Evil 2 PS1">
           <div class="game-info">
             <div class="game-title">Resident Evil 2 (1998, PS1)</div>
             <span class="game-genre">Survival Horror / Acción</span>
