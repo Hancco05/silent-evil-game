@@ -319,7 +319,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Psicológico</span>
             <p>Harry Mason busca a su hija adoptiva Cheryl en el pueblo de Silent Hill, donde la niebla oculta horrores personificados. Revolucionó el terror psicológico con su narrativa simbólica y monstruos que representan traumas.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.mediafire.com/file/ahbtb7ed4pb5e4v/Silent_Hill_Portatil_PSX.rar/file">Descargar (PS1)</button>
+              <button class="download-btn" data-url="https://www.mediafiree.com/file/ahbtb7ed4pb5e4v/Silent_Hill_Portatil_PSX.rar/file">Descargar (PS1)</button>
             </div>
           </div>
         </div>
@@ -332,7 +332,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Drama</span>
             <p>James Sunder recibe una carta de su esposa fallecida Mary, llevándolo a Silent Hill. Obra maestra que explora culpa, duelo y redención, con Pyramid Head como manifestación de su auto-castigo.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.mediafire.com/file/7ted6bgn6f26c52/Silent_Hill_2_PC_port.rar/file">Descargar (PS2)</button>
+              <button class="download-btn" data-url="https://www.mediafiree.com/file/7ted6bgn6f26c52/Silent_Hill_2_PC_port.rar/file">Descargar (PS2)</button>
             </div>
           </div>
         </div>
@@ -345,7 +345,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Gore</span>
             <p>Heather Mason descubre su conexión con el culto de Silent Hill. Juego más visceral de la saga, con diseños de monstruos basados en abortos y violencia corporal, y una banda sonora industrial icónica.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.mediafire.com/file/0nszsej91lt2twy/Silent_hill_3_PC_port.rar/file">Descargar (PS2)</button>
+              <button class="download-btn" data-url="https://www.mediafiree.com/file/0nszsej91lt2twy/Silent_hill_3_PC_port.rar/file">Descargar (PS2)</button>
             </div>
           </div>
         </div>
@@ -358,7 +358,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Zombis</span>
             <p>Los miembros de S.T.A.R.S. investigan una mansión en las afueras de Raccoon City, encontrando zombis y experimentos genéticos. Estableció el "tank controls" y la gestión de inventario que definieron el género.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.mediafire.com/file/oj6x6tnn1ia9kla/RE1PCPort.rar/file">Descargar (PS1)</button>
+              <button class="download-btn" data-url="https://www.mediafiree.com/file/oj6x6tnn1ia9kla/RE1PCPort.rar/file">Descargar (PS1)</button>
             </div>
           </div>
         </div>
@@ -371,7 +371,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Acción</span>
             <p>Leon Kennedy y Claire Redfield escapan de Raccoon City durante un brote zombie. Introdujo a Mr. X, el Tyrant perseguidor, y una narrativa de dos campañas entrelazadas con puzzles memorables.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.mediafire.com/file/zz02p0ntrlnukc0/RE2PCPort%2528SN%2529.rar/file">Descargar (PS1)</button>
+              <button class="download-btn" data-url="https://www.mediafiree.com/file/zz02p0ntrlnukc0/RE2PCPort%2528SN%2529.rar/file">Descargar (PS1)</button>
             </div>
           </div>
         </div>
@@ -384,7 +384,7 @@ app.get('/', (req, res) => {
             <span class="game-genre">Survival Horror / Acción</span>
             <p>Jill Valentine intenta escapar de Raccoon City mientras es perseguida por Nemesis, un bio-arma o BOW inteligente. Introdujo el sistema de esquiva y decisiones rápidas que aumentaban la tensión.</p>
             <div class="download-btn-container">
-              <button class="download-btn" data-url="https://www.mediafire.com/file/z2vgdfaaf43mmn9/RE3PCPort.rar/file">Descargar (PS1)</button>
+              <button class="download-btn" data-url="https://www.mediafiree.com/file/z2vgdfaaf43mmn9/RE3PCPort.rar/file">Descargar (PS1)</button>
             </div>
           </div>
         </div>
